@@ -1,5 +1,5 @@
 {
-  "name": "ohgodmusicbot",
+  "name": "bot_minedex_v2",
   "version": "1.0.0",
   "description": "A v11 Discord.JS music bot in 100 lines or less",
   "main": "server.js",
